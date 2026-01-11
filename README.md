@@ -1,9 +1,8 @@
 
 # ECS Breakout Engine
-
-![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
-![Graphics](https://img.shields.io/badge/graphics-OpenGL%20%2F%20SDL3-green.svg)
-![Architecture](https://img.shields.io/badge/architecture-ECS-orange.svg)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)<br />
+![Graphics](https://img.shields.io/badge/graphics-OpenGL%20%2F%20SDL3-green.svg)<br />
+![Architecture](https://img.shields.io/badge/architecture-ECS-orange.svg)<br />
 ![Status](https://img.shields.io/badge/Status-Educational_Prototype-yellow?style=for-the-badge)
 
 > **A Data-Oriented C++ Game Engine Prototype.**
@@ -12,9 +11,8 @@ This project is a custom implementation of the **Entity Component System (ECS)**
 
 The goal was to experiment with a data-oriented architecture and apply low-level OpenGL concepts to create a lightweight but practical 2D game engine.
 
-![Engine Demo](https://TU_LINK_AL_GIF_AQUI.gif)
-
-> **Tech Demo:** Footage captured using original assets from *Balatro* to demonstrate rendering capabilities.
+https://github.com/user-attachments/assets/0e299e49-822c-4287-b528-b51c797b2c6b
+> **Tech Demo:** Footage captured using original assets from *Balatro*.
 
 ---
 
