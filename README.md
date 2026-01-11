@@ -32,11 +32,6 @@ I implemented a lightweight ECS from scratch to understand the internals:
 * **Low-Level OpenGL:** Direct state management using `glDrawArrays`, VAOs, and VBOs, avoiding the overhead of high-level engines.
 * **Shader Management:** Custom shader compilation pipeline supporting geometry shaders and dynamic uniform updates.
 
-### 3. Systems Overview
-* **`PhysicsSystem`:** Handles AABB collision detection and position integration using discrete time steps.
-* **`AudioSystem`:** Wraps `miniaudio` to trigger sounds based on ECS state changes (events) rather than direct function calls.
-* **`RenderSystem`:** Manages rendering state, texture binding, and draw commands for active visual components.
-
 ---
 
 ## Project Structure
