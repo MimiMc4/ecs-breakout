@@ -1,8 +1,5 @@
 
 # ECS Breakout Engine
-![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
-![Graphics](https://img.shields.io/badge/graphics-OpenGL%20%2F%20SDL3-green.svg)
-![Architecture](https://img.shields.io/badge/architecture-ECS-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Educational_Prototype-yellow?style=for-the-badge)
 
 > **A Data-Oriented C++ Game Engine Prototype.**
