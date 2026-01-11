@@ -57,9 +57,6 @@ public:
 	void destroyEntity(Entity entity) {
 		if (sparse[entity] == NULL_INDEX) return;
 
-		// eliminar todos sus componentes asociados
-
-
 		// cambiar ultimo por eliminado para mantener packed
 		uint32_t index = sparse[entity];
 		Entity lastEntity = packed[count - 1];
@@ -70,8 +67,8 @@ public:
 		// Liberar entidad
 		sparse[entity] = NULL_INDEX;
 		
-		freeCount++;
 		freeIndices[freeCount] = entity;
+		freeCount++;
 		count--;
 	}
 
