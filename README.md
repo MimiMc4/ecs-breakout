@@ -11,7 +11,9 @@ This project is a custom implementation of the **Entity Component System (ECS)**
 
 The goal was to experiment with a data-oriented architecture and apply low-level OpenGL concepts to create a lightweight but practical 2D game engine.
 
-https://github.com/user-attachments/assets/0e299e49-822c-4287-b528-b51c797b2c6b
+
+https://github.com/user-attachments/assets/1a8e8f14-97a0-4f64-af09-ae3c38757ca2
+
 > **Tech Demo:** Footage captured using original assets from *Balatro*.
 
 ---
